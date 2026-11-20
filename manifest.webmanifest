@@ -1,0 +1,9 @@
+{
+  "name": "TVET RBM&E Workshop Studio",
+  "short_name": "TVET RBM&E",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#102b46",
+  "icons": []
+}
